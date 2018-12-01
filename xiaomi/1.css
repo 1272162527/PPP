@@ -1,0 +1,80 @@
+body{
+  background-color: white;
+  margin: 0px auto;
+}
+.zmy {
+    height: 40px;
+    color: #b0b0b0;
+    background: #333;
+    font-size: 10px;
+    float：left;
+    margin-right: auto;
+    margin-left: auto;
+    line-height:40px;
+    font-size: 12px;
+  }
+ a{
+    text-decoration: none;
+    color: #b0b0b0;
+  }
+  .nav-right{
+  float: right;
+  display:inline-block;
+  margin: auto 200px auto 100px
+  }
+
+.shopping-car{
+  line-height:40px;
+  float:right;
+  display:inline-block;
+  margin-top:5px;
+  }
+.nav-left{
+  float：left;
+  display:inline-block;
+  height: 40px;
+  color: #b0b0b0;
+  background: #333;
+  font-size: 10px;
+  margin: auto 0px auto 100px; 
+  line-height:40px;
+}
+.all-whb{
+  display: inline-block
+}
+.xiaomi{
+  margin-top:5px;
+  top:60px;
+  margin-left:100px;
+  }
+.text-2002{
+  font-size: 16px;
+  word-spacing: 20px;
+  margin-left: 300px;
+  margin-top:-30px;
+}
+.head-search-39{
+
+}
+.search-from{
+
+}
+.main-501x{
+  position: absolute;
+  top: 120px;
+  left: 85px;
+  z-index: 21;
+  width: 234px;
+  height: 460px;
+  font-size: 14px;
+  background: #333;
+}
+ul li{
+  list-style: none;
+  color: #fff;
+  margin-left: 10px;
+  }
+.picture-CJW{
+  margin-top: -430px;
+  margin-left: 200px;
+}
