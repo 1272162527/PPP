@@ -9,11 +9,10 @@ body{
   margin-left: auto;
 }
 .zmy {
-  width: 1226px;
+    width: 1226px;
     height: 40px;
     color: #b0b0b0;
     font-size: 10px;
-    float：right;
     line-height:40px;
     font-size: 12px;
   }
@@ -93,7 +92,8 @@ ul li{
   background-image: url("photos/XM.jpg");
 }
 .all-hyw{
-  
+  float: left;
+  width: 20%;
 }
 .picture-zmy{
   position: relative;
@@ -105,22 +105,22 @@ ul li{
 }
 .picture-zmy1{
   position: relative;
-  margin-top: 550px;
-  margin-left: 80px;
+  margin-top: -160px;
+  margin-left: 350px;
   width: 280px;
   height: 160px;
 }
 .picture-zmy2{
   position: relative;
-  margin-top: 550px;
-  margin-left: 80px;
+  margin-top: -160px;
+  margin-left: 720px;
   width: 280px;
   height: 160px;
 }
 .picture-zmy3{
   position: relative;
-  margin-top: 550px;
-  margin-left: 63px;
+  margin-top: -160px;
+  margin-left: 1080px;
   width: 280px;
   height: 160px;
 }
